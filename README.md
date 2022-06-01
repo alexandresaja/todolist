@@ -12,7 +12,13 @@ products:
 # Todo App on the MEAN stack for Azure App Service
 
 This is a [Sails.js](https://sailsjs.com) and Angular application you can use to follow along with the tutorial at [Build a Node.js and MongoDB web app in Azure](https://docs.microsoft.com/azure/app-service/tutorial-nodejs-mongodb-app).
+## Lancement
 
+```bash
+     npm install
+     node app.js --alter
+```
+* [port 1337](http://localhost:1337)
 ## Features
 
 - The app is generated using the [Sails.js CLI](https://sailsjs.com/documentation/reference/command-line-interface) and serves an API called `Todo`. Other modifications:
